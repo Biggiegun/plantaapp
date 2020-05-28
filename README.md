@@ -1,0 +1,2 @@
+# plantaapp
+Ejercicio React plantaapp
